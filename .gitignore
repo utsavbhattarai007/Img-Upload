@@ -1,0 +1,11 @@
+#client
+client/node_modules
+client/yarn-error.lock
+client/yarn.lock
+
+
+#server
+server/node_modules
+server/yarn.lock
+server/yarn-error.lock
+server/.gitignore
